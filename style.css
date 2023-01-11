@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.imgCursos {
+    width: 190px;
+    height: 190px;
+    margin-top: 1rem;
+}
+
+#titulo {
+    padding: 60px;
+}
+
+.card {
+    display: flex;
+    align-items: center;
+    margin: 0.5rem;
+    text-align: center;
+      
+}
+
+.colorBtn {
+    color: white;
+    background-color: rosybrown;
+}
+
+.colorBtn:hover {
+    background-color: bisque;
+    color: white;
+}
